@@ -1,0 +1,1013 @@
+[28-Sep-2021 03:58:02 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 03:58:02 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 03:58:02 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:12:02 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:12:02 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:12:02 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:28 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:28 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:28 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:32 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:32 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:32 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:49 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:49 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 04:13:49 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:01:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:01:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:01:58 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:01 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:01 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:01 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:14 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:14 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:02:14 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:36:58 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:04 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:04 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:04 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:49 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:49 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:49 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:52 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:52 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:37:52 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:38:52 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:38:52 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:38:52 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:39:00 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:39:00 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:39:00 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:11 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:11 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:11 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:43 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:43 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:43 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:53 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:53 America/New_York] PHP Warning:  require(/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php): failed to open stream: No such file or directory in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[28-Sep-2021 05:40:53 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/ascoxtzb/aftab.ascottbd.com/vendor/composer/../../app/Http/Helpers.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/ascoxtzb/aftab.ascottbd.com/vendor/composer/autoload_real.php on line 69
+[11-Dec-2021 05:23:59 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:24:05 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:24:08 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:25:09 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:25:12 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:25:32 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:26:06 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[11-Dec-2021 05:26:15 UTC] PHP Fatal error:  Uncaught Symfony\Component\Debug\Exception\FatalThrowableError: syntax error, unexpected 'bar' (T_STRING), expecting ')' in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php:79
+Stack trace:
+#0 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kinative/...', Array)
+#1 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kinative/...', Array)
+#2 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(126): Illuminate\View\View->getContents()
+#3 /home/kinative/public_html/khola-bazar/vendor/laravel/framework/src/Illuminate/View/View.php(91): Illuminate\View\View->renderContents()
+#4 /home/kinative/public_html/khola-bazar/storage/framework/views/5863871e7655de053a063088c721c7b793d66694.php(155): Illuminate in /home/kinative/public_html/khola-bazar/storage/framework/views/b016326b7220a1999e83f0fe0fa2926a136bb0de.php on line 79
+[27-Dec-2021 17:06:53 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[28-Dec-2021 10:13:54 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[28-Dec-2021 12:54:30 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[28-Dec-2021 12:54:51 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 86
+[28-Dec-2021 23:32:46 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[29-Dec-2021 14:00:14 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[29-Dec-2021 16:01:21 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 80
+[30-Dec-2021 12:16:58 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 911
+[31-Dec-2021 01:06:31 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 223
+[31-Dec-2021 01:06:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 72
+[31-Dec-2021 01:06:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 11:22:12 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 882
+[01-Jan-2022 11:22:55 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 875
+[01-Jan-2022 11:22:59 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 11:23:00 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 11:23:04 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 12:23:19 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 12:25:03 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 12:38:26 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 12:39:24 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 926
+[01-Jan-2022 13:14:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 13:14:44 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[01-Jan-2022 17:38:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasTimestamps.php on line 127
+[02-Jan-2022 11:08:45 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/app/Http/Helpers.php on line 334
+[02-Jan-2022 11:08:59 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1354
+[02-Jan-2022 11:09:02 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 321
+[02-Jan-2022 11:09:07 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[02-Jan-2022 17:27:20 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[03-Jan-2022 15:33:44 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[05-Jan-2022 10:52:06 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasTimestamps.php on line 127
+[05-Jan-2022 10:52:18 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 0
+[05-Jan-2022 10:53:13 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 72
+[05-Jan-2022 10:53:32 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 340
+[05-Jan-2022 11:19:13 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[05-Jan-2022 12:09:47 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php on line 189
+[05-Jan-2022 12:09:47 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[05-Jan-2022 12:15:26 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[05-Jan-2022 12:15:31 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 65
+[05-Jan-2022 15:21:55 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/app/Http/Helpers.php on line 334
+[05-Jan-2022 15:22:20 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 926
+[05-Jan-2022 15:22:20 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 911
+[05-Jan-2022 15:22:21 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/app/Http/Helpers.php on line 334
+[05-Jan-2022 15:24:34 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 11:27:33 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 11:28:15 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 11:39:16 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 11:39:22 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 873
+[07-Jan-2022 11:46:40 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 12:21:01 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 12:38:32 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 12:39:00 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 12:39:47 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 12:39:53 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 875
+[07-Jan-2022 12:59:54 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:01:07 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:03:03 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:03:30 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:04:11 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 875
+[07-Jan-2022 13:04:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:05:19 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:05:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:06:13 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:07:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:17:37 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:20:10 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:25:47 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:26:34 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:30:48 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 321
+[07-Jan-2022 13:33:58 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:36:23 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 356
+[07-Jan-2022 13:36:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:38:25 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 13:40:25 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 13:43:22 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 875
+[07-Jan-2022 13:47:35 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 872
+[07-Jan-2022 13:56:12 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 14:04:34 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 14:16:45 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:08:27 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:09:21 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasTimestamps.php on line 107
+[07-Jan-2022 15:09:22 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 925
+[07-Jan-2022 15:09:25 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 72
+[07-Jan-2022 15:09:27 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:49:52 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:51:14 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:52:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 15:54:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 182
+[07-Jan-2022 16:11:46 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 627
+[07-Jan-2022 16:13:17 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 16:13:30 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 72
+[07-Jan-2022 16:14:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 16:14:44 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 16:19:09 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 16:24:25 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1550
+[07-Jan-2022 16:24:35 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 363
+[07-Jan-2022 16:24:38 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/app/Http/Helpers.php on line 1094
+[07-Jan-2022 17:04:06 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 321
+[07-Jan-2022 17:05:15 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 363
+[07-Jan-2022 17:05:19 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 872
+[07-Jan-2022 17:09:37 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 17:10:11 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 872
+[07-Jan-2022 17:10:18 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 17:10:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 17:10:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 17:13:18 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 20:57:00 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 20:57:08 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php on line 72
+[07-Jan-2022 20:57:08 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[07-Jan-2022 20:57:21 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 442
+[07-Jan-2022 20:58:01 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Arr.php on line 654
+[16-Jan-2022 14:18:39 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[19-Jan-2022 16:16:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/kholabaz/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[19-Jan-2022 16:16:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 16384 bytes) in /home/kholabaz/public_html/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php on line 138
+[30-Jan-2022 13:06:08 Asia/Dhaka] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::send_notification_to_customer() in /home/kholabaz/public_html/app/Http/Controllers/OrderController.php on line 1326
+[30-Jan-2022 13:06:25 Asia/Dhaka] PHP Fatal error:  Cannot redeclare App\Http\Controllers\OrderController::send_notification_to_customer() in /home/kholabaz/public_html/app/Http/Controllers/OrderController.php on line 1326
+[08-Feb-2022 01:39:27 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/kholabaz/public_html/storage/framework/views/cae1c8c6ae319b0e665b7b85ece601c0e905fc26.php(40): route('home')
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/kholabaz/...')
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kholabaz/...', Array)
+#4 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kholabaz/...', Array)
+#5 /home/kholabaz/public_html/vendor/laravel/framework/src/Il in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[08-Feb-2022 01:39:27 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/kholabaz/public_html/storage/framework/views/cae1c8c6ae319b0e665b7b85ece601c0e905fc26.php(40): route('home')
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/kholabaz/...')
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kholabaz/...', Array)
+#4 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kholabaz/...', Array)
+#5 /home/kholabaz/public_html/vendor/laravel/framework/src/Il in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[08-Feb-2022 01:39:29 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/kholabaz/public_html/storage/framework/views/cae1c8c6ae319b0e665b7b85ece601c0e905fc26.php(40): route('home')
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/kholabaz/...')
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kholabaz/...', Array)
+#4 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kholabaz/...', Array)
+#5 /home/kholabaz/public_html/vendor/laravel/framework/src/Il in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[08-Feb-2022 01:39:34 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/kholabaz/public_html/storage/framework/views/cae1c8c6ae319b0e665b7b85ece601c0e905fc26.php(40): route('home')
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/kholabaz/...')
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kholabaz/...', Array)
+#4 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kholabaz/...', Array)
+#5 /home/kholabaz/public_html/vendor/laravel/framework/src/Il in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[08-Feb-2022 01:39:46 Asia/Dhaka] PHP Fatal error:  Uncaught Symfony\Component\Routing\Exception\RouteNotFoundException: Route [home] not defined. in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php:420
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(777): Illuminate\Routing\UrlGenerator->route('home', Array, true)
+#1 /home/kholabaz/public_html/storage/framework/views/cae1c8c6ae319b0e665b7b85ece601c0e905fc26.php(40): route('home')
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php(43): include('/home/kholabaz/...')
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/Engines/CompilerEngine.php(59): Illuminate\View\Engines\PhpEngine->evaluatePath('/home/kholabaz/...', Array)
+#4 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/View/View.php(143): Illuminate\View\Engines\CompilerEngine->get('/home/kholabaz/...', Array)
+#5 /home/kholabaz/public_html/vendor/laravel/framework/src/Il in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 420
+[13-Feb-2022 21:36:47 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[13-Feb-2022 22:21:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[16-Feb-2022 13:58:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[16-Feb-2022 13:59:04 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[16-Feb-2022 13:59:07 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[16-Feb-2022 13:59:07 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[19-Feb-2022 14:40:54 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 321
+[22-Feb-2022 11:09:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[23-Feb-2022 11:11:45 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[23-Feb-2022 11:37:43 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 868
+[23-Feb-2022 11:38:08 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 379
+[23-Feb-2022 11:38:36 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php on line 321
+[23-Feb-2022 15:01:31 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[23-Feb-2022 15:01:35 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[28-Feb-2022 16:09:42 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 340
+[28-Feb-2022 17:23:57 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1654
+[02-Mar-2022 15:33:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[02-Mar-2022 21:18:56 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[02-Mar-2022 21:30:46 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[02-Mar-2022 21:47:39 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[03-Mar-2022 12:59:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[04-Mar-2022 12:25:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[04-Mar-2022 21:02:50 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/kholabaz/public_html/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Collection/Cells.php on line 157
+[06-Mar-2022 15:28:15 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[07-Mar-2022 17:52:22 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98582528 bytes) in /home/kholabaz/public_html/storage/framework/views/069c00fbf82a792e52bd835bae059511e91366be.php on line 48
+[10-Mar-2022 11:27:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[10-Mar-2022 14:47:37 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 223
+[12-Mar-2022 10:59:17 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[12-Mar-2022 10:59:19 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[13-Mar-2022 13:00:43 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[13-Mar-2022 13:00:43 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[13-Mar-2022 13:00:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[15-Mar-2022 12:38:01 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[15-Mar-2022 12:38:16 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[18-Mar-2022 05:31:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[18-Mar-2022 05:31:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[18-Mar-2022 05:31:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[18-Mar-2022 05:31:36 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:23 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:26 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:27 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:29 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:32 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[21-Mar-2022 13:19:33 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Mar-2022 12:25:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[23-Mar-2022 16:06:54 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Support/Traits/EnumeratesValues.php on line 873
+[24-Mar-2022 11:14:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[24-Mar-2022 11:14:12 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[24-Mar-2022 11:14:12 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[24-Mar-2022 11:14:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:34:30 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:35:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:35:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:35:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:36:00 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:36:04 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:36:05 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:36:06 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[28-Mar-2022 11:36:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[29-Mar-2022 11:10:05 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[02-Apr-2022 11:27:06 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[02-Apr-2022 20:25:04 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No such file or directory in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[04-Apr-2022 11:05:24 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[06-Apr-2022 12:55:57 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 1042
+[07-Apr-2022 13:50:23 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/app/Http/Helpers.php on line 438
+[07-Apr-2022 13:53:40 Asia/Dhaka] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 223
+[07-Apr-2022 13:59:46 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 516096 bytes) in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Cache/FileStore.php on line 223
+[07-Apr-2022 14:03:03 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14680080 bytes) in /home/kholabaz/public_html/vendor/filp/whoops/src/Whoops/Util/HtmlDumperOutput.php on line 23
+[07-Apr-2022 14:08:09 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 14680221 bytes) in /home/kholabaz/public_html/vendor/symfony/var-dumper/Dumper/AbstractDumper.php on line 182
+[07-Apr-2022 14:10:27 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 68360727 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:20:14 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 68870072 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:23:51 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 68804848 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:25:12 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 68241412 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:27:14 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 65537058 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:27:49 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 64716413 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[07-Apr-2022 14:29:10 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 56250664 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 918
+[07-Apr-2022 14:32:07 Asia/Dhaka] PHP Fatal error:  Allowed memory size of 239075328 bytes exhausted (tried to allocate 63793653 bytes) in /home/kholabaz/public_html/vendor/barryvdh/laravel-debugbar/src/LaravelDebugbar.php on line 874
+[09-Apr-2022 10:44:16 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:16 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:44 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:45 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:44:48 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:45:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[09-Apr-2022 10:45:22 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[10-Apr-2022 11:20:15 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[12-Apr-2022 11:13:28 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:19 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[08004] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:31 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:35 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:53 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[22-Apr-2022 13:01:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[27-Apr-2022 12:11:05 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[08-May-2022 12:28:54 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[08-May-2022 12:29:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[08-May-2022 12:29:10 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[08-May-2022 12:29:23 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[10-May-2022 11:30:59 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[11-May-2022 11:01:07 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
+[13-May-2022 15:48:26 Asia/Dhaka] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php:70
+Stack trace:
+#0 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(70): PDO->__construct('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#1 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php(46): Illuminate\Database\Connectors\Connector->createPdoConnection('mysql:host=loca...', 'kholabaz_kholab...', '*)OrlG=)L)%c', Array)
+#2 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/MySqlConnector.php(24): Illuminate\Database\Connectors\Connector->createConnection('mysql:host=loca...', Array, Array)
+#3 /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectionFactory.php(182): Illuminate\Database\Connectors\MySqlConnector->connect(Array)
+#4 [internal func in /home/kholabaz/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 669
