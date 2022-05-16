@@ -4339,6 +4339,8 @@ input[type="number"] {
 /*custom checkbox, radio*/
 .aiz-checkbox-list {
     padding: 0 0;
+    max-height: 500px;
+    overflow-y: scroll;
 }
 .aiz-checkbox,
 .aiz-radio {
