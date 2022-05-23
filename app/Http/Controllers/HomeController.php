@@ -15,25 +15,21 @@ use App\Brand;
 use App\Product;
 use App\PickupPoint;
 use App\CustomerPackage;
-use App\CustomerProduct;
 use App\User;
 use App\Seller;
 use App\Shop;
-use App\Color;
 use App\Order;
 use App\Cart;
 use App\BusinessSetting;
 use App\Http\Controllers\SearchController;
-use ImageOptimizer;
 use Cookie;
 use Illuminate\Support\Str;
 use App\Mail\SecondEmailVerifyMailManager;
 use Mail;
-use App\Utility\TranslationUtility;
 use App\Utility\CategoryUtility;
 use Illuminate\Auth\Events\PasswordReset;
 use App\Mail\EmailManager;
-
+use Illuminate\Support\Facades\DB;
 
 class HomeController extends Controller
 {
