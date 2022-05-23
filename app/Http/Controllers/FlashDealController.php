@@ -7,6 +7,7 @@ use App\FlashDeal;
 use App\FlashDealTranslation;
 use App\FlashDealProduct;
 use App\Product;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;
 
 class FlashDealController extends Controller
@@ -57,11 +58,19 @@ class FlashDealController extends Controller
         $flash_deal->background_color = $request->background_color;
         $flash_deal->slug = strtolower(str_replace(' ', '-', $request->title).'-'.Str::random(5));
         $flash_deal->banner = $request->banner;
+            $flash_deal->is_cat_wise = $request->show_cat_wise;
         if($flash_deal->save()){
             foreach ($request->products as $key => $product) {
                 $flash_deal_product = new FlashDealProduct;
                 $flash_deal_product->flash_deal_id = $flash_deal->id;
                 $flash_deal_product->product_id = $product;
+                $category_id = DB::table('products')->where('id',$product)->value('category_id');
+                $parent_id = DB::table('categories')->where('id',$category_id)->value('parent_id');
+                if($parent_id!=0){
+                    $parent_id = DB::table('categories')->where('id',$parent_id)->value('parent_id'); 
+                    $flash_deal_product->product_category = $parent_id;
+                    
+                }else{$flash_deal_product->product_category = $parent_id;}
                 $flash_deal_product->save();
 
                 $root_product = Product::findOrFail($product);
@@ -163,6 +172,7 @@ class FlashDealController extends Controller
         }
 
         $flash_deal->banner = $request->banner;
+            $flash_deal->is_cat_wise = $request->show_cat_wise;
         foreach ($flash_deal->flash_deal_products as $key => $flash_deal_product) {
             $flash_deal_product->delete();
         }
@@ -171,6 +181,13 @@ class FlashDealController extends Controller
                 $flash_deal_product = new FlashDealProduct;
                 $flash_deal_product->flash_deal_id = $flash_deal->id;
                 $flash_deal_product->product_id = $product;
+                $category_id = DB::table('products')->where('id',$product)->value('category_id');
+                $parent_id = DB::table('categories')->where('id',$category_id)->value('parent_id');
+                if($parent_id!=0){
+                    $parent_id = DB::table('categories')->where('id',$parent_id)->value('parent_id'); 
+                    $flash_deal_product->product_category = $parent_id;
+                    
+                }else{$flash_deal_product->product_category = $parent_id;}
                 $flash_deal_product->save();
 
                 $root_product = Product::findOrFail($product);

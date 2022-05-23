@@ -245,18 +245,70 @@ class HomeController extends Controller
 
         return view('frontend.featured_products', compact('products'));
     }
-    public function flash_deal_details($slug)
+    public function all_flash_deals() {
+
+        $today = strtotime(date('Y-m-d H:i:s'));
+
+        $data['all_flash_deals'] = FlashDeal::where('status', 1)
+                ->where('start_date', "<=", $today)
+                ->where('end_date', ">", $today)
+                ->orderBy('created_at', 'desc')
+                ->get();
+
+        return view("frontend.flash_deal.all_flash_deal_list", $data);
+    }
+    public function flash_deals_check($slug)
+    {
+        $flash_deal = FlashDeal::where('slug', $slug)->first();
+        if($flash_deal->is_cat_wise == 1){
+            return redirect()->route('cat-wise-flash-deals',[$slug]);
+        }elseif($flash_deal->is_cat_wise == 0) {
+            return redirect()->route('flash-deal-details',[$slug]);
+        }else{
+            abort(404);
+        }
+    }
+    public function flash_deal_details($slug,$category_id=null)
     {
         $flash_deal = FlashDeal::where('slug', $slug)->first();
         if($flash_deal != null){
-            $products=FlashDealProduct::where('flash_deal_id',$flash_deal->id)->paginate(20);
+            if($category_id!=null){
+                $products=FlashDealProduct::where('flash_deal_id',$flash_deal->id)
+                ->where('product_category',$category_id)
+                ->paginate(20);
+            }else{
+                $products=FlashDealProduct::where('flash_deal_id',$flash_deal->id)->paginate(20);
 
+            }
             return view('frontend.flash_deal_details', compact('flash_deal','products'));
         }else {
             abort(404);
         }
     }
 
+    public function cat_wise_flash_deals($slug)
+    {
+        $flash_deal = FlashDeal::where('slug', $slug)->first();
+        if($flash_deal != null){
+            $product_categories = DB::table('flash_deal_products')->where('flash_deal_id', $flash_deal->id)->groupBy('product_category',)->having('product_category', '>', 1)->get();
+            return view('frontend.cat_wise_flash_deals', compact('flash_deal','product_categories'));
+        }else {
+            abort(404);
+        }
+    }
+    public function cat_wise_flash_deals_product($category_id, $slug)
+    {
+        $flash_deal = FlashDeal::where('slug', $slug)->first();
+        if($flash_deal != null){
+            //$products=FlashDealProduct::where('flash_deal_id',$flash_deal->id)->paginate(200);
+            //$product_categories = DB::table('flash_deal_products')->where('flash_deal_id', $flash_deal->id)->distinct()->value('product_category');
+            $product_categories = DB::table('flash_deal_products')->where('flash_deal_id', $flash_deal->id)->groupBy('product_category',)->having('product_category', '>', 1)->get();
+            //print_r($product_categories);exit();
+            return view('frontend.cat_wise_flash_deals', compact('flash_deal','product_categories'));
+        }else {
+            abort(404);
+        }
+    }
     public function load_featured_section(){
         return view('frontend.partials.featured_products_section');
     }
@@ -894,18 +946,6 @@ class HomeController extends Controller
     }
 
 
-    public function all_flash_deals() {
-
-        $today = strtotime(date('Y-m-d H:i:s'));
-
-        $data['all_flash_deals'] = FlashDeal::where('status', 1)
-                ->where('start_date', "<=", $today)
-                ->where('end_date', ">", $today)
-                ->orderBy('created_at', 'desc')
-                ->get();
-
-        return view("frontend.flash_deal.all_flash_deal_list", $data);
-    }
 
     public function all_seller(Request $request) {
         $shops = Shop::whereIn('user_id', verified_sellers_id());

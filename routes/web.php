@@ -81,9 +81,9 @@ Route::get('/test-flash-deals', 'FlashDealController@test')->name('flash_deals.t
 Route::get('/test-delivery-status', 'OrderController@test')->name('order.test');
 //Flash Deal Details Page
 Route::get('/flash-deals', 'HomeController@all_flash_deals')->name('flash-deals');
-Route::get('/flash-deal/{slug}', 'HomeController@flash_deal_details')->name('flash-deal-details');
-
-
+Route::get('/flash-deals/check/{slug}', 'HomeController@flash_deals_check')->name('flash-deals-check');
+Route::get('/flash-deal/{slug}/{id?}', 'HomeController@flash_deal_details')->name('flash-deal-details');
+Route::get('/flash-deals/c/{slug}', 'HomeController@cat_wise_flash_deals')->name('cat-wise-flash-deals');
 Route::get('/sitemap.xml', function() {
     return base_path('sitemap.xml');
 });
