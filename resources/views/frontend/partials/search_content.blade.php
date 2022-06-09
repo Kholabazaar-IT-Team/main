@@ -67,9 +67,9 @@
                                     <div class="product-name text-truncate fs-14 mb-5px">
                                         {{ $shop->name }}
                                     </div>
-                                    <div class="opacity-60">
+                                    <!-- <div class="opacity-60">
                                         {{ $shop->address }}
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </a>
