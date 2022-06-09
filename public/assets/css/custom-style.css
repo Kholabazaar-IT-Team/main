@@ -62,6 +62,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     font-family: 'Montserrat', sans-serif;
 }
 .z-1021{z-index: 1021 !important}
+.z-1022{z-index: 1022 !important}
 .text-alter{color: var(--alter) !important;}
 .text-alter-2{color: var(--alter2) !important;}
 .text-alter-3{color: var(--alter3) !important;}
@@ -507,4 +508,10 @@ a:hover{
     outline: 1px solid var(--alter);
     height: 10px;
   }
-
+  .search-box-scroll{
+    height: 70vh;
+    overflow-y: scroll;
+  }
+  .search-box-scroll::-webkit-scrollbar {
+    display: none;
+  }

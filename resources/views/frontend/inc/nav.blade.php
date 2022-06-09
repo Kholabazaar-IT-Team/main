@@ -9,7 +9,7 @@
 </div> --}}
 @endif
 {{-- top bar menue  --}}
-<div class="container z-1 bg-white border-bottom shadow-sm d-none d-lg-block">
+<div class="container z-1022 bg-white border-bottom shadow-sm d-none d-lg-block">
     <div class="row d-flex align-items-center">
         {{-- logo --}}
         <div class="col-md-2  pl-0 pr-2 d-flex align-items-center pr-xl-3 t-logo">
@@ -54,14 +54,6 @@
                             </div>
                             <div class="d-flex flex-grow-1 border overflow-hidden src-br align-items-center" style="border-radius: 5px;height:2.4rem;">
                                 <input type="text" class="border-0 border-gray-800 form-control src-input px-1" id="search" name="q" placeholder="{{translate('        Search Your Products')}}" autocomplete="off">
-                                {{-- <div style="width: 250px;">
-                                    <select name="cat_id" id="" class="form-control fs-12" >
-                                        <option value="">All Categories<i class="las la-caret-down pr-3 mr-2"></i></option>
-                                        @foreach (App\Category::all() as $category )
-                                        <option value="{{ $category->id }}">{{ $category->name }}</option>
-                                        @endforeach
-                                    </select>
-                                </div> --}}
                                 <div class="d-none d-lg-block">
                                     <button class="btn btn-icon btn-primary text-white" type="submit">
                                         <i class="la la-search la-flip-horizontal fs-21 fw-900 "></i>
@@ -70,7 +62,17 @@
                             </div>
                         </div>
                     </form>
+                    <div class="typed-search-box stop-propagation document-click-d-none d-none bg-white rounded shadow-lg position-absolute left-0 top-100 w-100" style="min-height: 100px">
+                        <div class="search-preloader absolute-top-center">
+                            <div class="dot-loader"><div></div><div></div><div></div></div>
+                        </div>
+                        <div class="search-nothing d-none p-3 text-center text-dark fs-16">
 
+                        </div>
+                        <div id="search-content" class="text-left text-dark bg-white search-box-scroll" style="z-index:1500!important;">
+
+                        </div>
+                    </div>
                 </div>
             </div>
        </div>
@@ -168,28 +170,6 @@
         <div class="bg-alter-3 py-2 text-white web-topbar blu-nv">
             <div class="container">
                <div class="row">
-                    {{-- <div class="col d-lg-none d-flex align-items-center">
-                        <div type="button" class="mr-3 ml-0 mobile-category-trigger d-flex align-items-center" data-toggle="class-toggle" data-target=".mobile-category-sidebar">
-                            <button class="aiz-mobile-toggler">
-                                <span></span>
-                            </button>
-
-                        </div>
-                    </div> --}}
-                    {{-- menues  --}}
-                    <div class="col-md-5">
-                         <div class="typed-search-box stop-propagation document-click-d-none d-none bg-white rounded shadow-lg position-absolute left-0 top-100 w-100" style="min-height: 100px">
-                        <div class="search-preloader absolute-top-center">
-                            <div class="dot-loader"><div></div><div></div><div></div></div>
-                        </div>
-                        <div class="search-nothing d-none p-3 text-center text-dark fs-16">
-
-                        </div>
-                        <div id="search-content" class="text-left text-dark bg-white" style="z-index:1500!important;">
-
-                        </div>
-                    </div>
-                    </div>
                         @if ( get_setting('header_menu_labels') !=  null )
                             <div class="col-md-9 d-none d-lg-block pl-0 ">
                                 <ul class="list-inline mb-0 pl-0  pt-1 mobile-hor-swipe text-center d-flex justify-content-start align-items-center">
