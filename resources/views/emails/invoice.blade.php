@@ -164,7 +164,7 @@
 
 				<tr>
 
-					<td class="gry-color small">{{ get_setting('contact_address',null,App::getLocale())) }}</td>
+					<td class="gry-color small">{{ get_setting('contact_address',null,App::getLocale()) }}</td>
 
 					<td class="text-right"></td>
 
