@@ -47,13 +47,17 @@
 		.text-right{
 			text-align:<?php echo  $not_text_align ?>;
 		}
+		.payment_status_seal img{
+    		width: 20vw;
+    		margin-left: 20vw;
+ 		}
 	</style>
 </head>
 <body>
 	<div>
 
 		@php
-			$logo = get_setting('system_logo_white');
+		$logo = get_setting('header_logo');
 		@endphp
 
 		<div style="background: #eceff4;padding: 1rem;">
@@ -225,7 +229,14 @@
 		        </tbody>
 		    </table>
 	    </div>
-
+		<div class="payment_status_seal">
+			
+			@if ($order->payment_status=="unpaid")
+			<img src="{{static_asset('assets/img/unpaid.jpg')}}" alt="paid seal">
+			@else
+			<img src="{{static_asset('assets/img/paid.jpg')}}" alt="paid seal">
+			@endif
+		</div>
 	</div>
 </body>
 </html>
