@@ -48,7 +48,7 @@
 			text-align:<?php echo  $not_text_align ?>;
 		}
 		.payment_status_seal img{
-    		width: 20vw;
+    		width: 10vw;
     		margin-left: 20vw;
  		}
 	</style>
@@ -198,6 +198,14 @@
 		        <tbody>
 			        <tr>
 			            <td>
+						<div class="payment_status_seal">
+			
+			@if ($order->payment_status=="unpaid")
+			<img style="width:70vw" src="{{static_asset('assets/img/unpaid.jpg')}}" alt="paid seal">
+			@else
+			<img style="width:90vw" src="{{static_asset('assets/img/paid.jpg')}}" alt="paid seal">
+			@endif
+		</div>
 			            </td>
 			            <td>
 					        <table class="text-right sm-padding small strong">
@@ -229,14 +237,7 @@
 		        </tbody>
 		    </table>
 	    </div>
-		<div class="payment_status_seal">
-			
-			@if ($order->payment_status=="unpaid")
-			<img src="{{static_asset('assets/img/unpaid.jpg')}}" alt="paid seal">
-			@else
-			<img src="{{static_asset('assets/img/paid.jpg')}}" alt="paid seal">
-			@endif
-		</div>
+		
 	</div>
 </body>
 </html>
