@@ -18,24 +18,13 @@
                     <h1 class="h2 fw-600">{{ $flash_deal->title }}</h1>
                     <div class="aiz-count-down aiz-count-down-lg ml-3 align-items-center justify-content-center" data-date="{{ date('Y/m/d H:i:s', $flash_deal->end_date) }}"></div>
                 </div>
-                <div class="row gutters-5 row-cols-xxl-6 row-cols-xl-5 row-cols-lg-4 row-cols-md-3 row-cols-2">
-                    @foreach ($products as $key => $flash_deal_product)
-                        @php
-                            $product=\App\Product::findOrFail($flash_deal_product->product_id);
-                        @endphp
-                        @if ($product->published != 0)
-                            <div class="col mb-2">
-                                @include('frontend.partials.product_box_1',['product' => $product])
-                            </div>
-                        @endif
-                    @endforeach
+                <div class="row gutters-5 row-cols-xxl-6 row-cols-xl-5 row-cols-lg-4 row-cols-md-3 row-cols-2" id="post">
+                   
                 </div>
-            </div>
-            <div class="aiz-pagination aiz-pagination-center mt-4">
-                {{ $products->links() }}
             </div>
         </section>
     </div>
+    <button class="btn btn-primary m-auto text-center loading">Loading...</button>
     @else
         <div style="background-color:{{ $flash_deal->background_color }}">
             <section class="text-center">
@@ -51,4 +40,42 @@
             </section>
         </div>
     @endif
+@endsection
+@section('script')
+    <script>
+        
+//load more  
+        var paginate = 1;
+        
+        loadMoreData(paginate);
+        $('.loading').click(function() {
+                paginate++;
+                loadMoreData(paginate);
+        });
+        // run function when user reaches to end of the page
+        function loadMoreData(paginate) {
+            $.ajax({
+                url: '?page=' + paginate,
+                type: 'get',
+                datatype: 'html',
+                beforeSend: function() {
+                    $('.loading').show();
+                    $('.loading').html('Loading...');
+                }
+            })
+            .done(function(data) {
+                if(data.length == 0) {
+                    $('.loading').html('No more product.');
+                    $('.loading').attr('class','btn btn-primary m-auto text-center btn-disabled');
+                    return;
+                  } else {
+                    $('.loading').html('View More');
+                    $('#post').append(data);
+                  }
+            })
+               .fail(function(jqXHR, ajaxOptions, thrownError) {
+                  alert('Something went wrong.');
+               });
+        }
+    </script>
 @endsection
